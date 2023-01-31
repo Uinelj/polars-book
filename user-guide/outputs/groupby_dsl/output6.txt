@@ -1,0 +1,12 @@
+shape: (5, 4)
+┌───────┬─────────────────────┬─────────────────┬────────────────────┐
+│ state ┆ youngest            ┆ oldest          ┆ alphabetical_first │
+│ ---   ┆ ---                 ┆ ---             ┆ ---                │
+│ cat   ┆ str                 ┆ str             ┆ str                │
+╞═══════╪═════════════════════╪═════════════════╪════════════════════╡
+│ SC    ┆ Joe Cunningham      ┆ Ralph Izard     ┆ Abraham Nott       │
+│ KY    ┆ Ben Chandler        ┆ John Edwards    ┆ Aaron Harding      │
+│ AK    ┆ Mark Begich         ┆ Thomas Cale     ┆ Anthony Dimond     │
+│ PR    ┆ Aníbal Acevedo-Vilá ┆ Tulio Larrinaga ┆ Antonio Colorado   │
+│ MI    ┆ Peter Meijer        ┆ Edward Bradley  ┆ Aaron Bliss        │
+└───────┴─────────────────────┴─────────────────┴────────────────────┘
